@@ -209,3 +209,5 @@ __marimo__/
 # my own docs
 sweetviz_report.html
 civic_tensor.html
+.DS_Store
+*_files/
