@@ -1,0 +1,33 @@
+# Core
+pandas
+numpy
+re
+collections
+typing
+
+# Visualization
+matplotlib
+seaborn
+plotly
+lets-plot
+pytablewriter
+
+# Data exploration
+missingno
+sweetviz
+
+# Preprocessing and ML pipeline
+scikit-learn
+imbalanced-learn
+kneed
+yellowbrick
+xgboost
+lightgbm
+catboost
+miceforest
+
+# Statistical analysis
+statsmodels
+
+# Explainability
+shap

@@ -1,0 +1,117 @@
+,cowcode,country_name,missing_years_1945_2000
+0,31,Bahamas,28
+1,51,Jamaica,17
+2,52,Trinidad and Tobago,17
+3,53,Barbados,21
+4,55,Grenada,29
+5,80,Belize,36
+6,110,Guyana,21
+7,115,Suriname,30
+8,255,Germany,92
+9,260,German Federal Republic,10
+10,315,Czechoslovakia,16
+11,316,Czech Republic,48
+12,317,Slovakia,48
+13,338,Malta,19
+14,343,Macedonia,48
+15,344,Croatia,47
+16,345,Yugoslavia,20
+17,346,Bosnia and Herzegovina,46
+18,347,Kosovo,46
+19,349,Slovenia,46
+20,352,Cyprus,15
+21,359,Moldova,45
+22,365,Russia,46
+23,366,Estonia,92
+24,367,Latvia,92
+25,368,Lithuania,92
+26,369,Ukraine,46
+27,370,Belarus,46
+28,371,Armenia,46
+29,372,Georgia,46
+30,373,Azerbaijan,46
+31,402,Cape Verde,30
+32,404,Guinea-Bissau,29
+33,420,Gambia,20
+34,432,Mali,15
+35,433,Senegal,15
+36,434,Benin,15
+37,435,Mauritania,15
+38,436,Niger,15
+39,437,Ivory Coast,15
+40,438,Guinea,13
+41,439,Burkina Faso,15
+42,451,Sierra Leone,16
+43,452,Ghana,12
+44,461,Togo,15
+45,471,Cameroon,15
+46,475,Nigeria,15
+47,481,Gabon,15
+48,482,Central African Republic,15
+49,483,Chad,15
+50,484,Congo,15
+51,490,Democratic Republic of the Congo,16
+52,500,Uganda,17
+53,501,Kenya,18
+54,510,Tanzania,16
+55,511,Zanzibar,15
+56,516,Burundi,17
+57,517,Rwanda,17
+58,520,Somalia,15
+59,522,Djibouti,32
+60,530,Ethiopia,12
+61,531,Eritrea,48
+62,540,Angola,30
+63,541,Mozambique,30
+64,551,Zambia,19
+65,552,Zimbabwe,21
+66,553,Malawi,19
+67,565,Namibia,20
+68,570,Lesotho,21
+69,571,Botswana,21
+70,572,Swaziland,23
+71,581,Comoros,30
+72,590,Mauritius,23
+73,591,Seychelles,31
+74,600,Morocco,22
+75,615,Algeria,18
+76,616,Tunisia,22
+77,620,Libya,6
+78,625,Sudan,9
+79,652,Syria,2
+80,660,Lebanon,1
+81,663,Jordan,1
+82,666,Israel,2
+83,678,Yemen Arab Republic,11
+84,679,Yemen,45
+85,680,Yemen People's Republic,33
+86,690,Kuwait,17
+87,692,Bahrain,26
+88,694,Qatar,26
+89,696,United Arab Emirates,26
+90,698,Oman,26
+91,701,Turkmenistan,46
+92,702,Tajikistan,46
+93,703,Kyrgyzstan,46
+94,704,Uzbekistan,46
+95,705,Kazakhstan,46
+96,713,Taiwan,4
+97,732,South Korea,4
+98,750,India,1
+99,760,Bhutan,26
+100,770,Pakistan,2
+101,771,Bangladesh,26
+102,775,Myanmar,3
+103,780,Sri Lanka,3
+104,811,Cambodia,8
+105,812,Laos,9
+106,817,Republic of Vietnam,35
+107,820,Malaysia,12
+108,830,Singapore,14
+109,840,Philippines,1
+110,850,Indonesia,4
+111,910,Papua New Guinea,30
+112,935,Vanuatu,36
+113,940,Solomon Islands,33
+114,950,Fiji,25
+115,990,Samoa,31
