@@ -1,5 +1,5 @@
 # Predicting Civil War: An Integrated Supervised and Unsupervised ML Approach  
-This project is part of the LSE's [DS202W Data Science for Social Scientists](https://lse-dsi.github.io/DS202/2024/winter-term/) course.  
+This project is part of the LSE's [DS202W Data Science for Social Scientists](https://lse-dsi.github.io/DS202/2024-2025/winter-term/) course.  
 
 **How best can we predict civil war?**
 
